@@ -109,8 +109,8 @@ En Visual Studio/Sublime/Notepad++/Bloc de notas creamos un archivo de configura
 
 ```
 path: ../train_data  # dataset root dir
-train: ../train_data/images/train/  # train images (relative to 'path') 128 images
-val: ../train_data/images/val/  # val images (relative to 'path') 128 images
+train: ../train_data/images/train/  # train images (relative to 'path') 160 images
+val: ../train_data/images/val/  # val images (relative to 'path') 40 images
 test:  # test images (optional)
 
 # Classes
